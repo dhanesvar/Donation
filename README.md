@@ -1,7 +1,7 @@
-# Developer - Ravi Sharma
+# Developer - Dhanesvar VS
 
 # Task
-> Payment Gateway Integration - https://ravigithub19.github.io/payment_gateway_integration/
+> Payment Gateway Integration - https://thankful-bush-08f009600.1.azurestaticapps.net
 
 ## Table of contents
 * Homepage
